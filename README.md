@@ -10,6 +10,7 @@ Sample content written in [LearnMD](https://github.com/learnspec/learnmd) and [Q
 | [`solar-system/`](solar-system/) | Our Solar System | LaTeX math ($F = G \frac{m_1 m_2}{r^2}$), `match` and `order` question types, GFM callouts |
 | [`music-theory/`](music-theory/) | Music Theory Fundamentals | ABC music notation with `play`/`cursor` flags, `match` and `order` questions |
 | [`web-fundamentals/`](web-fundamentals/) | Web Development Fundamentals | Code blocks (HTML, CSS), `multi` question type, scored inline quizzes |
+| [`water-cycle/`](water-cycle/) | The water cycle | [AnimMD](https://github.com/learnspec/animmd) step-reveal animation over a [DiagramMD](https://github.com/learnspec/diagrammd) stock entry, referenced animated and static from the same lesson |
 
 ## Format overview
 
