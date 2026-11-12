@@ -26,10 +26,14 @@ Both formats are:
 ## Getting started
 
 1. Browse the samples on GitHub — they render as readable Markdown.
-2. Use the [Neuroneo MCP server](https://github.com/learnspec/neuroneo-mcp) to parse, validate, and publish content.
+2. Use the [memoneo MCP server](https://memoneo.app) to parse, validate, and publish content.
 3. Write your own `.learn.md` and `.quiz.md` files following the specs:
    - [LearnMD spec](https://github.com/learnspec/learnmd)
    - [QuizMD spec](https://github.com/learnspec/quizmd)
+
+## Maintainers
+
+This repository is part of the [LearnSpec](https://learnspec.org) suite, initiated and maintained by [memoneo](https://memoneo.app). Issues and pull requests are welcome.
 
 ## License
 
